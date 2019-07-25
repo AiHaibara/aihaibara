@@ -1,7 +1,7 @@
 ![Image](https://raw.githubusercontent.com/AiHaibara/Aptx/master/logo.png)
 # HaibaraAi
 
-[Blog](cnblogs.com/HaibaraAi)
+[Blog](https://www.cnblogs.com/HaibaraAi)
 
 
 You can use the [editor on GitHub](https://github.com/AiHaibara/aihaibara/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
